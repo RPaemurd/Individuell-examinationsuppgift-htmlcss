@@ -384,6 +384,10 @@ header{
         row-gap: 0.625rem;
         margin-bottom: 3.125rem;
     }
+
+    .collection-card__button{
+        font-size: 0.65rem;;
+    }
 }
 
 /* FOOTER */
